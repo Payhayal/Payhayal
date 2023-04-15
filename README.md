@@ -12,13 +12,12 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalam&size=24&duration=6000&pause=30000&color=408E91&width=1200&height=40&lines=🎩+I’m+looking+for+more+of+a+challenge)
 
-🔭 I’m currently working on Front-end Developer </br>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalam&size=24&duration=6000&pause=30000&color=408E91&width=1300&height=40&lines=🕴+I'm+currently+learning+React+and+React+Native)
 
-🌱 I’m currently learning React and React Native </br>
 
-💬 Ask me about anything </br>
+💬![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalam&size=24&duration=6000&pause=30000&color=408E91&width=1300&height=40&lines=🕴+Ask+me+about+anything)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalam&size=22&duration=6000&pause=30000&color=4F4557&width=1200&height=60&lines=📫+How+to+reach+me:👇🏻👇🏻👇🏻)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalam&size=22&duration=6000&pause=30000&color=009FBD&width=1200&height=60&lines=📫+How+to+reach+me:👇🏻👇🏻👇🏻)
 ### 🪧 begenay@hotmail.com <br><br><br>
  
 
