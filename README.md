@@ -6,15 +6,17 @@
  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=30&duration=9000&pause=1500&color=917FB3&width=900&height=90&lines=✨+Welcome+to+my+Github+Profile+✨) 
 
 ## 💫 About Me:
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalam&size=24&duration=6000&pause=30000&color=98D8AA&width=1200&height=40&lines=👩+I'm+improving+my+skills+and+knowledge+as+a+Frontend+Developer)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalam&size=24&duration=6000&pause=30000&color=408E91&width=1200&height=40&lines=👩+I'm+improving+my+skills+and+knowledge+as+a+Frontend+Developer)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalam&size=24&duration=6000&pause=30000&color=98D8AA&width=1300&height=40&lines=🕴+I'm+looking+to+collaborate+on+projects)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalam&size=24&duration=6000&pause=30000&color=408E91&width=1300&height=40&lines=🕴+I'm+looking+to+collaborate+on+projects)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalam&size=24&duration=6000&pause=30000&color=98D8AA&width=1200&height=40&lines=🎩+I’m+looking+for+more+of+a+challenge)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalam&size=24&duration=6000&pause=30000&color=408E91&width=1200&height=40&lines=🎩+I’m+looking+for+more+of+a+challenge)
 
-🔭 I’m currently working on Front-end Developer
-🌱 I’m currently learning React and React Native
-💬 Ask me about anything
+🔭 I’m currently working on Front-end Developer </br>
+
+🌱 I’m currently learning React and React Native </br>
+
+💬 Ask me about anything </br>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalam&size=22&duration=6000&pause=30000&color=4F4557&width=1200&height=60&lines=📫+How+to+reach+me:👇🏻👇🏻👇🏻)
 ### 🪧 begenay@hotmail.com <br><br><br>
