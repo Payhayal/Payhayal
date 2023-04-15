@@ -2,9 +2,6 @@
 
 <img src="https://media.giphy.com/media/YPJ5gi3MZzSjhtQTIk/giphy.gif" width="90px"/> ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=32&center=true&duration=8000&pause=400&color=917FB3&width=750&height=100&lines=I'm+Hayal+🌎) 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalam&size=32&center=true&duration=6000&pause=10000&color=917FB3&width=900&height=90&lines=I'm+Frontend+Developer+especially+interested+in+React+and+React+Native)
-![image](https://user-images.githubusercontent.com/129688498/232226431-5953364f-3768-4bcf-95a4-51db02b0bf25.png)
-
 
  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=30&duration=9000&pause=1500&color=917FB3&width=900&height=90&lines=✨+Welcome+to+my+Github+Profile+✨) 
 
@@ -15,6 +12,8 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalam&size=24&duration=6000&pause=30000&color=98D8AA&width=1200&height=40&lines=🎩+I’m+looking+for+more+of+a+challenge)
 
+🔭 I’m currently working on Front-end Developer
+🌱 I’m currently learning React and React Native
 💬 Ask me about anything
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalam&size=22&duration=6000&pause=30000&color=4F4557&width=1200&height=60&lines=📫+How+to+reach+me:👇🏻👇🏻👇🏻)
