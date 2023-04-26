@@ -9,7 +9,7 @@
  
 
 ## 💫 About Me:
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalam&size=24&duration=6000&pause=30000&color=FF7F3F&width=1200&height=40&lines=👩+I'm+improving+my+skills+and+knowledge+as+a+Frontend+Developer)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalam&size=24&duration=6000&pause=30000&color=FF7F3F&width=1200&height=40&lines=👩+I'm+improving+my+skills+and+knowledge+as+a+Front-end+Developer)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalam&size=24&duration=6000&pause=30000&color=FF7F3F&width=1300&height=40&lines=🕴+I'm+looking+to+collaborate+on+projects)
 
