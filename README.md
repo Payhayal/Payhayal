@@ -22,7 +22,7 @@
 💬 Ask me about anything 
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalam&size=22&duration=6000&pause=30000&color=009FBD&width=1200&height=60&lines=📫+How+to+reach+me:👇🏻👇🏻👇🏻)
-### 🪧 begenay@hotmail.com <br><br><br>
+### 🪧 begenay88@gmail.com <br><br><br>
  
 
 ## 💻 Tech Stack:
