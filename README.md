@@ -1,7 +1,7 @@
 
 
 
-<img src="https://media.giphy.com/media/YPJ5gi3MZzSjhtQTIk/giphy.gif" width="90px"/> ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=32&center=true&duration=8000&pause=400&color=917FB3&width=750&height=100&lines=I'm+Hayal+🌎) 
+<img src="https://media.giphy.com/media/YPJ5gi3MZzSjhtQTIk/giphy.gif" width="90px"/> ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=32&center=true&duration=8000&pause=400&color=917FB3&width=750&height=100&lines=I'm+Hayel+Pay+🌎) 
 
 
  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=30&duration=9000&pause=1500&color=917FB3&width=900&height=90&lines=✨+Welcome+to+my+Github+Profile+✨) 
