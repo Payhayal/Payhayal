@@ -14,8 +14,8 @@
 💬 Ask me about anything <br><br><br>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalam&size=22&duration=6000&pause=30000&color=009FBD&width=1200&height=60&lines=How+to+reach+me:👇🏻👇🏻👇🏻)  <br>
-📫 begenay88@gmail.com <br>
-✨ https://www.linkedin.com/in/payhayal/<br><br><br>
+📫begenay88@gmail.com <br>
+✨https://www.linkedin.com/in/payhayal/ <br><br><br>
 
 
 ## 💻 Tech Stack:
