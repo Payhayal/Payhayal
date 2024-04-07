@@ -3,9 +3,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=32&center=true&duration=8000&pause=400&color=917FB3&width=750&height=100&lines=I'm+Hayel+Pay+🌎) 
 
 
- ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=30&duration=9000&pause=1500&color=917FB3&width=900&height=90&lines=✨+Welcome+to+my+Github+Profile+✨) 
- 
- 
 
 ## 💫 About Me:
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalam&size=24&duration=6000&pause=30000&color=0C0C0C&width=1200&height=40&lines=👩+I'm+improving+my+skills+and+knowledge+as+a+React+and+React-Native+Developer)
@@ -21,7 +18,8 @@
 💬 Ask me about anything 
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalam&size=22&duration=6000&pause=30000&color=009FBD&width=1200&height=60&lines=📫+How+to+reach+me:👇🏻👇🏻👇🏻)
-### begenay88@gmail.com <br><br><br>
+### begenay88@gmail.com <br>
+### https://www.linkedin.com/in/payhayal/ <br><br><br>
  
 
 ## 💻 Tech Stack:
