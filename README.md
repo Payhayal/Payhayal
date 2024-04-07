@@ -1,7 +1,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=32&center=true&duration=5000&pause=400&color=009FBD&width=750&height=100&lines=I'm+Hayel+Pay+🌎) 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalam&size=24&duration=6000&pause=30000&color=0C0C0C&width=1200&height=40&lines=👩+I'm+improving+my+skills+and+knowledge+as+a+React+and+React-Native+Developer)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalam&size=24&duration=6000&pause=30000&color=0C0C0C&width=1200&height=40&lines=👩+I'm+React+and+React-Native+Developer)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalam&size=24&duration=6000&pause=30000&color=0C0C0C&width=1300&height=40&lines=💫+I'm+looking+to+collaborate+on+projects)
 
