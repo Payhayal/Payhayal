@@ -1,10 +1,8 @@
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=32&center=true&duration=2000&pause=400&color=009FBD&width=750&height=100&lines=I'm+Hayel+Pay+🌎) 
+💫![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=32&center=true&duration=2000&pause=400&color=009FBD&width=750&height=100&lines=I'm+Hayel+Pay+🌎) 
 
 
-
-## 💫 About Me:
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalam&size=24&duration=6000&pause=30000&color=0C0C0C&width=1200&height=40&lines=👩+I'm+improving+my+skills+and+knowledge+as+a+React+and+React-Native+Developer)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalam&size=24&duration=6000&pause=30000&color=0C0C0C&width=1300&height=40&lines=🕴+I'm+looking+to+collaborate+on+projects)
@@ -12,12 +10,12 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalam&size=24&duration=6000&pause=30000&color=0C0C0C&width=1200&height=40&lines=🎩+I’m+looking+for+more+of+a+challenge)
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalam&size=24&duration=6000&pause=30000&color=0C0C0C&width=1300&height=40&lines=🕴+I'm+currently+learning+React+and+React-Native)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalam&size=24&duration=6000&pause=30000&color=0C0C0C&width=1300&height=40&lines=💫+I'm+currently+learning+React+and+React-Native)
 
 
 💬 Ask me about anything 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalam&size=22&duration=6000&pause=30000&color=009FBD&width=1200&height=60&lines=📫+How+to+reach+me:👇🏻👇🏻👇🏻)
+💫![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalam&size=22&duration=6000&pause=30000&color=009FBD&width=1200&height=60&lines=📫+How+to+reach+me:👇🏻👇🏻👇🏻)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=632CF7&multiline=true&random=false&width=435&lines=begenay88%40gmail.com)](https://git.io/typing-svg) <br>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=632CF7&multiline=true&random=false&width=435&lines=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fpayhayal%2F)](https://git.io/typing-svg) <br><br><br>
  
