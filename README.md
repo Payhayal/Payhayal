@@ -1,6 +1,6 @@
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=32&center=true&duration=2000&pause=400&color=917FB3&width=750&height=100&lines=I'm+Hayel+Pay+🌎) 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=32&center=true&duration=2000&pause=400&color=009FBD&width=750&height=100&lines=I'm+Hayel+Pay+🌎) 
 
 
 
