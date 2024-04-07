@@ -15,8 +15,9 @@
 
 💬 Ask me about anything 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalam&size=22&duration=6000&pause=30000&color=009FBD&width=1200&height=60&lines=How+to+reach+me:👇🏻👇🏻👇🏻)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=632CF7&multiline=true&random=false&width=435&lines=📫+begenay88%40gmail.com)](https://git.io/typing-svg) <br>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalam&size=22&duration=6000&pause=30000&color=009FBD&width=1200&height=60&lines=How+to+reach+me:👇🏻👇🏻👇🏻)  <br>
+📫 begenay88@gmail.com <br>
+✨ https://www.linkedin.com/in/payhayal/
 
 
 
