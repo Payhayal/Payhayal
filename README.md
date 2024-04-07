@@ -17,7 +17,8 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalam&size=22&duration=6000&pause=30000&color=009FBD&width=1200&height=60&lines=How+to+reach+me:👇🏻👇🏻👇🏻)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=632CF7&multiline=true&random=false&width=435&lines=📫+begenay88%40gmail.com)](https://git.io/typing-svg) <br>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=632CF7&multiline=true&random=false&width=435&lines=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fpayhayal%2F)](https://git.io/typing-svg) <br><br><br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=632CF7&multiline=true&random=false&width=435&lines=![image](https://github.com/Payhayal/Payhayal/assets/129688498/8d647443-eb2f-4815-966b-a2a3ec1bf771)
+https%3A%2F%2Fwww.linkedin.com%2Fin%2Fpayhayal%2F)](https://git.io/typing-svg) <br><br><br>
  
 
 ## 💻 Tech Stack:
